@@ -1,4 +1,4 @@
-# (STEPIK) FUNDAMENTALS OF OLYMPIC PROGRAMMING
+# (MIPT) FUNDAMENTALS OF OLYMPIC PROGRAMMING
 
 I scored 155 out of 155, having studied 100% of a course material.
 
