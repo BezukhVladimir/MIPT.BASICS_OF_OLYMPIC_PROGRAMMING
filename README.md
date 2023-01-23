@@ -1,5 +1,6 @@
-# (MIPT) FUNDAMENTALS OF OLYMPIC PROGRAMMING
+# FUNDAMENTALS OF OLYMPIC PROGRAMMING (MIPT)
 
+## Progress on a course
 I scored 155 out of 155, having studied 100% of a course material.
 
 ## License
